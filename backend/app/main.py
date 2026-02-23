@@ -19,11 +19,6 @@ http_duration = Histogram(
     "HTTP request duration",
     ["tool", "endpoint"]
 )
-tts_generations = Counter(
-    "tts_generations_total",
-    "TTS generations",
-    ["tool", "voice"]
-)
 page_views = Counter(
     "page_views_total",
     "Page views",
