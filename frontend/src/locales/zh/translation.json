@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "首页",
+    "pricing": "价格"
+  },
+  "hero": {
+    "badge": "Murf.ai 替代品",
+    "title": "专业 AI",
+    "titleAccent": "语音生成器",
+    "subtitle": "工作室级别的文字转语音，自然流畅的 AI 声音。免费使用，无需注册。",
+    "tag1": "每天5次免费生成",
+    "tag2": "12+ 种 AI 声音",
+    "tag3": "无需注册"
+  },
+  "generator": {
+    "title": "文字转语音",
+    "tokensLeft": "剩余 {{count}} 次生成",
+    "getMore": "获取更多",
+    "textLabel": "输入文字",
+    "placeholder": "在此输入或粘贴文字...",
+    "voiceLabel": "选择声音",
+    "speedLabel": "语速",
+    "generate": "生成语音",
+    "generating": "生成中...",
+    "download": "下载 MP3"
+  },
+  "features": {
+    "title": "为什么选择 Murf TTS",
+    "fast": {
+      "title": "极速生成",
+      "desc": "优化的 AI 引擎，几秒内生成高质量语音。"
+    },
+    "voices": {
+      "title": "12+ 种声音",
+      "desc": "多种男声女声，多种口音可选。"
+    },
+    "multilingual": {
+      "title": "多语言支持",
+      "desc": "支持英语、中文、日语、德语、法语、韩语、西班牙语。"
+    },
+    "free": {
+      "title": "免费使用",
+      "desc": "每天5次免费生成，无需信用卡。"
+    }
+  },
+  "comparison": {
+    "title": "Murf TTS vs Murf.ai",
+    "feature": "功能",
+    "freeUsage": "免费使用",
+    "noSignup": "无需注册",
+    "voices": "AI 声音",
+    "price": "起始价格"
+  },
+  "pricing": {
+    "title": "简单定价",
+    "subtitle": "一次付费，永久使用。无需订阅。",
+    "popular": "最受欢迎",
+    "generations": "次生成",
+    "buyNow": "立即购买",
+    "processing": "处理中...",
+    "tiers": {
+      "starter": "入门版",
+      "pro": "专业版",
+      "unlimited": "无限版"
+    },
+    "features": {
+      "generations": "{{count}} 次生成",
+      "unlimited": "无限次生成",
+      "allVoices": "全部 12+ 种声音",
+      "mp3Download": "MP3 下载",
+      "noExpiry": "永不过期",
+      "prioritySupport": "优先客服",
+      "cancelAnytime": "随时取消"
+    },
+    "faqTitle": "常见问题",
+    "faq": {
+      "q1": "生成次数是如何计算的？",
+      "a1": "每次将文字转换为语音算一次生成。免费用户每天5次，付费用户获得购买的次数。",
+      "q2": "支持哪些支付方式？",
+      "a2": "我们通过安全的支付服务商支持所有主流信用卡、PayPal 和其他本地支付方式。",
+      "q3": "可以退款吗？",
+      "a3": "可以，如果您对服务不满意，我们提供7天无理由退款。"
+    }
+  },
+  "success": {
+    "title": "支付成功！",
+    "message": "感谢您的购买。生成次数已添加到您的账户。",
+    "loading": "正在加载您的次数...",
+    "yourTokens": "您的次数",
+    "startGenerating": "开始生成"
+  },
+  "error": {
+    "emptyText": "请输入要转换的文字。",
+    "textTooLong": "文字太长，最多允许5000个字符。",
+    "unknown": "发生未知错误，请重试。",
+    "checkoutFailed": "支付启动失败，请重试。"
+  },
+  "footer": {
+    "tagline": "免费 Murf.ai 替代品"
+  }
+}

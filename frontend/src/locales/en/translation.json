@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Home",
+    "pricing": "Pricing"
+  },
+  "hero": {
+    "badge": "Murf.ai Alternative",
+    "title": "Professional AI",
+    "titleAccent": "Voice Generator",
+    "subtitle": "Studio-quality text-to-speech with natural-sounding AI voices. Free to use, no signup required.",
+    "tag1": "Free 5 generations/day",
+    "tag2": "12+ AI voices",
+    "tag3": "No signup"
+  },
+  "generator": {
+    "title": "Text to Speech",
+    "tokensLeft": "{{count}} generations left",
+    "getMore": "Get more",
+    "textLabel": "Enter your text",
+    "placeholder": "Type or paste your text here...",
+    "voiceLabel": "Select voice",
+    "speedLabel": "Speed",
+    "generate": "Generate Speech",
+    "generating": "Generating...",
+    "download": "Download MP3"
+  },
+  "features": {
+    "title": "Why Choose Murf TTS",
+    "fast": {
+      "title": "Lightning Fast",
+      "desc": "Generate high-quality speech in seconds with our optimized AI."
+    },
+    "voices": {
+      "title": "12+ AI Voices",
+      "desc": "Choose from male & female voices with various accents."
+    },
+    "multilingual": {
+      "title": "Multilingual",
+      "desc": "Support for English, Chinese, Japanese, German, French, Korean, Spanish."
+    },
+    "free": {
+      "title": "Free to Use",
+      "desc": "5 free generations every day. No credit card required."
+    }
+  },
+  "comparison": {
+    "title": "Murf TTS vs Murf.ai",
+    "feature": "Feature",
+    "freeUsage": "Free Usage",
+    "noSignup": "No Signup Required",
+    "voices": "AI Voices",
+    "price": "Starting Price"
+  },
+  "pricing": {
+    "title": "Simple Pricing",
+    "subtitle": "Pay once, use forever. No subscriptions required.",
+    "popular": "Most Popular",
+    "generations": "generations",
+    "buyNow": "Buy Now",
+    "processing": "Processing...",
+    "tiers": {
+      "starter": "Starter",
+      "pro": "Pro",
+      "unlimited": "Unlimited"
+    },
+    "features": {
+      "generations": "{{count}} generations",
+      "unlimited": "Unlimited generations",
+      "allVoices": "All 12+ AI voices",
+      "mp3Download": "MP3 download",
+      "noExpiry": "Never expires",
+      "prioritySupport": "Priority support",
+      "cancelAnytime": "Cancel anytime"
+    },
+    "faqTitle": "Frequently Asked Questions",
+    "faq": {
+      "q1": "How do generations work?",
+      "a1": "Each time you convert text to speech, it counts as one generation. Free users get 5 per day, paid users get their purchased amount.",
+      "q2": "What payment methods do you accept?",
+      "a2": "We accept all major credit cards, PayPal, and other local payment methods through our secure payment provider.",
+      "q3": "Can I get a refund?",
+      "a3": "Yes, we offer a 7-day money-back guarantee if you're not satisfied with the service."
+    }
+  },
+  "success": {
+    "title": "Payment Successful!",
+    "message": "Thank you for your purchase. Your tokens have been added to your account.",
+    "loading": "Loading your tokens...",
+    "yourTokens": "Your Tokens",
+    "startGenerating": "Start Generating"
+  },
+  "error": {
+    "emptyText": "Please enter some text to generate speech.",
+    "textTooLong": "Text is too long. Maximum 5000 characters allowed.",
+    "unknown": "An unexpected error occurred. Please try again.",
+    "checkoutFailed": "Failed to start checkout. Please try again."
+  },
+  "footer": {
+    "tagline": "Free Murf.ai Alternative"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "pricing": "料金"
+  },
+  "hero": {
+    "badge": "Murf.ai 代替",
+    "title": "プロ仕様 AI",
+    "titleAccent": "音声ジェネレーター",
+    "subtitle": "スタジオ品質のテキスト読み上げ、自然なAI音声。無料で利用可能、登録不要。",
+    "tag1": "毎日5回無料生成",
+    "tag2": "12種類以上のAI音声",
+    "tag3": "登録不要"
+  },
+  "generator": {
+    "title": "テキスト読み上げ",
+    "tokensLeft": "残り {{count}} 回",
+    "getMore": "追加購入",
+    "textLabel": "テキストを入力",
+    "placeholder": "ここにテキストを入力または貼り付け...",
+    "voiceLabel": "音声を選択",
+    "speedLabel": "速度",
+    "generate": "音声を生成",
+    "generating": "生成中...",
+    "download": "MP3をダウンロード"
+  },
+  "features": {
+    "title": "Murf TTS を選ぶ理由",
+    "fast": {
+      "title": "超高速",
+      "desc": "最適化されたAIで数秒で高品質な音声を生成。"
+    },
+    "voices": {
+      "title": "12種類以上の音声",
+      "desc": "男性・女性の声、様々なアクセントから選択可能。"
+    },
+    "multilingual": {
+      "title": "多言語対応",
+      "desc": "英語、中国語、日本語、ドイツ語、フランス語、韓国語、スペイン語をサポート。"
+    },
+    "free": {
+      "title": "無料で利用可能",
+      "desc": "毎日5回無料生成。クレジットカード不要。"
+    }
+  },
+  "comparison": {
+    "title": "Murf TTS vs Murf.ai",
+    "feature": "機能",
+    "freeUsage": "無料利用",
+    "noSignup": "登録不要",
+    "voices": "AI音声",
+    "price": "開始価格"
+  },
+  "pricing": {
+    "title": "シンプルな料金",
+    "subtitle": "一度の支払いで永久利用。サブスク不要。",
+    "popular": "人気",
+    "generations": "回の生成",
+    "buyNow": "今すぐ購入",
+    "processing": "処理中...",
+    "tiers": {
+      "starter": "スターター",
+      "pro": "プロ",
+      "unlimited": "無制限"
+    },
+    "features": {
+      "generations": "{{count}} 回の生成",
+      "unlimited": "無制限の生成",
+      "allVoices": "全12種類以上の音声",
+      "mp3Download": "MP3ダウンロード",
+      "noExpiry": "有効期限なし",
+      "prioritySupport": "優先サポート",
+      "cancelAnytime": "いつでもキャンセル可"
+    },
+    "faqTitle": "よくある質問",
+    "faq": {
+      "q1": "生成回数はどう計算されますか？",
+      "a1": "テキストを音声に変換するたびに1回とカウントされます。無料ユーザーは1日5回、有料ユーザーは購入した回数分使えます。",
+      "q2": "どの支払い方法に対応していますか？",
+      "a2": "安全な決済プロバイダーを通じて、主要なクレジットカード、PayPal、その他の決済方法に対応しています。",
+      "q3": "返金は可能ですか？",
+      "a3": "はい、サービスにご満足いただけない場合は7日間の返金保証があります。"
+    }
+  },
+  "success": {
+    "title": "支払い完了！",
+    "message": "ご購入ありがとうございます。生成回数がアカウントに追加されました。",
+    "loading": "回数を読み込み中...",
+    "yourTokens": "あなたの回数",
+    "startGenerating": "生成を開始"
+  },
+  "error": {
+    "emptyText": "テキストを入力してください。",
+    "textTooLong": "テキストが長すぎます。最大5000文字までです。",
+    "unknown": "予期せぬエラーが発生しました。もう一度お試しください。",
+    "checkoutFailed": "チェックアウトの開始に失敗しました。もう一度お試しください。"
+  },
+  "footer": {
+    "tagline": "無料 Murf.ai 代替"
+  }
+}

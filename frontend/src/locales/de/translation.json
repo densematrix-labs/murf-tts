@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "pricing": "Preise"
+  },
+  "hero": {
+    "badge": "Murf.ai Alternative",
+    "title": "Professioneller KI",
+    "titleAccent": "Sprachgenerator",
+    "subtitle": "Studioqualität Text-to-Speech mit natürlich klingenden KI-Stimmen. Kostenlos nutzbar, keine Anmeldung erforderlich.",
+    "tag1": "5 kostenlose Generierungen/Tag",
+    "tag2": "12+ KI-Stimmen",
+    "tag3": "Keine Anmeldung"
+  },
+  "generator": {
+    "title": "Text zu Sprache",
+    "tokensLeft": "{{count}} Generierungen übrig",
+    "getMore": "Mehr kaufen",
+    "textLabel": "Text eingeben",
+    "placeholder": "Geben Sie hier Ihren Text ein oder fügen Sie ihn ein...",
+    "voiceLabel": "Stimme auswählen",
+    "speedLabel": "Geschwindigkeit",
+    "generate": "Sprache generieren",
+    "generating": "Generiere...",
+    "download": "MP3 herunterladen"
+  },
+  "features": {
+    "title": "Warum Murf TTS wählen",
+    "fast": {
+      "title": "Blitzschnell",
+      "desc": "Generieren Sie hochwertige Sprache in Sekunden mit unserer optimierten KI."
+    },
+    "voices": {
+      "title": "12+ KI-Stimmen",
+      "desc": "Wählen Sie aus männlichen und weiblichen Stimmen mit verschiedenen Akzenten."
+    },
+    "multilingual": {
+      "title": "Mehrsprachig",
+      "desc": "Unterstützung für Englisch, Chinesisch, Japanisch, Deutsch, Französisch, Koreanisch, Spanisch."
+    },
+    "free": {
+      "title": "Kostenlos nutzbar",
+      "desc": "5 kostenlose Generierungen jeden Tag. Keine Kreditkarte erforderlich."
+    }
+  },
+  "comparison": {
+    "title": "Murf TTS vs Murf.ai",
+    "feature": "Funktion",
+    "freeUsage": "Kostenlose Nutzung",
+    "noSignup": "Keine Anmeldung erforderlich",
+    "voices": "KI-Stimmen",
+    "price": "Startpreis"
+  },
+  "pricing": {
+    "title": "Einfache Preise",
+    "subtitle": "Einmal zahlen, für immer nutzen. Keine Abonnements erforderlich.",
+    "popular": "Beliebteste",
+    "generations": "Generierungen",
+    "buyNow": "Jetzt kaufen",
+    "processing": "Verarbeitung...",
+    "tiers": {
+      "starter": "Starter",
+      "pro": "Pro",
+      "unlimited": "Unbegrenzt"
+    },
+    "features": {
+      "generations": "{{count}} Generierungen",
+      "unlimited": "Unbegrenzte Generierungen",
+      "allVoices": "Alle 12+ KI-Stimmen",
+      "mp3Download": "MP3-Download",
+      "noExpiry": "Läuft nie ab",
+      "prioritySupport": "Prioritäts-Support",
+      "cancelAnytime": "Jederzeit kündbar"
+    },
+    "faqTitle": "Häufig gestellte Fragen",
+    "faq": {
+      "q1": "Wie funktionieren Generierungen?",
+      "a1": "Jedes Mal, wenn Sie Text in Sprache umwandeln, zählt dies als eine Generierung. Kostenlose Nutzer erhalten 5 pro Tag, zahlende Nutzer erhalten ihre gekaufte Menge.",
+      "q2": "Welche Zahlungsmethoden akzeptieren Sie?",
+      "a2": "Wir akzeptieren alle gängigen Kreditkarten, PayPal und andere lokale Zahlungsmethoden über unseren sicheren Zahlungsanbieter.",
+      "q3": "Kann ich eine Rückerstattung erhalten?",
+      "a3": "Ja, wir bieten eine 7-tägige Geld-zurück-Garantie, wenn Sie mit dem Service nicht zufrieden sind."
+    }
+  },
+  "success": {
+    "title": "Zahlung erfolgreich!",
+    "message": "Vielen Dank für Ihren Kauf. Ihre Token wurden Ihrem Konto gutgeschrieben.",
+    "loading": "Lade Ihre Token...",
+    "yourTokens": "Ihre Token",
+    "startGenerating": "Generierung starten"
+  },
+  "error": {
+    "emptyText": "Bitte geben Sie Text ein, um Sprache zu generieren.",
+    "textTooLong": "Text ist zu lang. Maximal 5000 Zeichen erlaubt.",
+    "unknown": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "checkoutFailed": "Checkout konnte nicht gestartet werden. Bitte versuchen Sie es erneut."
+  },
+  "footer": {
+    "tagline": "Kostenlose Murf.ai Alternative"
+  }
+}

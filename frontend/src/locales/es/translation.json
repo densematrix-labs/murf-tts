@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "pricing": "Precios"
+  },
+  "hero": {
+    "badge": "Alternativa a Murf.ai",
+    "title": "Generador de voz",
+    "titleAccent": "IA Profesional",
+    "subtitle": "Texto a voz de calidad de estudio con voces de IA naturales. Gratis, sin registro.",
+    "tag1": "5 generaciones gratis/día",
+    "tag2": "12+ voces de IA",
+    "tag3": "Sin registro"
+  },
+  "generator": {
+    "title": "Texto a voz",
+    "tokensLeft": "{{count}} generaciones restantes",
+    "getMore": "Obtener más",
+    "textLabel": "Ingresa tu texto",
+    "placeholder": "Escribe o pega tu texto aquí...",
+    "voiceLabel": "Seleccionar voz",
+    "speedLabel": "Velocidad",
+    "generate": "Generar voz",
+    "generating": "Generando...",
+    "download": "Descargar MP3"
+  },
+  "features": {
+    "title": "Por qué elegir Murf TTS",
+    "fast": {
+      "title": "Ultrarrápido",
+      "desc": "Genera voz de alta calidad en segundos con nuestra IA optimizada."
+    },
+    "voices": {
+      "title": "12+ voces de IA",
+      "desc": "Elige entre voces masculinas y femeninas con varios acentos."
+    },
+    "multilingual": {
+      "title": "Multilingüe",
+      "desc": "Soporte para inglés, chino, japonés, alemán, francés, coreano, español."
+    },
+    "free": {
+      "title": "Gratis",
+      "desc": "5 generaciones gratis cada día. Sin tarjeta de crédito."
+    }
+  },
+  "comparison": {
+    "title": "Murf TTS vs Murf.ai",
+    "feature": "Característica",
+    "freeUsage": "Uso gratuito",
+    "noSignup": "Sin registro",
+    "voices": "Voces de IA",
+    "price": "Precio inicial"
+  },
+  "pricing": {
+    "title": "Precios simples",
+    "subtitle": "Paga una vez, usa para siempre. Sin suscripciones.",
+    "popular": "Más popular",
+    "generations": "generaciones",
+    "buyNow": "Comprar ahora",
+    "processing": "Procesando...",
+    "tiers": {
+      "starter": "Inicial",
+      "pro": "Pro",
+      "unlimited": "Ilimitado"
+    },
+    "features": {
+      "generations": "{{count}} generaciones",
+      "unlimited": "Generaciones ilimitadas",
+      "allVoices": "Todas las 12+ voces de IA",
+      "mp3Download": "Descarga MP3",
+      "noExpiry": "Sin caducidad",
+      "prioritySupport": "Soporte prioritario",
+      "cancelAnytime": "Cancela en cualquier momento"
+    },
+    "faqTitle": "Preguntas frecuentes",
+    "faq": {
+      "q1": "¿Cómo funcionan las generaciones?",
+      "a1": "Cada vez que conviertes texto a voz, cuenta como una generación. Los usuarios gratuitos obtienen 5 por día, los usuarios de pago obtienen su cantidad comprada.",
+      "q2": "¿Qué métodos de pago aceptan?",
+      "a2": "Aceptamos todas las tarjetas de crédito principales, PayPal y otros métodos de pago locales a través de nuestro proveedor de pagos seguro.",
+      "q3": "¿Puedo obtener un reembolso?",
+      "a3": "Sí, ofrecemos una garantía de devolución de dinero de 7 días si no estás satisfecho con el servicio."
+    }
+  },
+  "success": {
+    "title": "¡Pago exitoso!",
+    "message": "Gracias por tu compra. Tus tokens han sido añadidos a tu cuenta.",
+    "loading": "Cargando tus tokens...",
+    "yourTokens": "Tus tokens",
+    "startGenerating": "Empezar a generar"
+  },
+  "error": {
+    "emptyText": "Por favor ingresa texto para generar voz.",
+    "textTooLong": "El texto es demasiado largo. Máximo 5000 caracteres permitidos.",
+    "unknown": "Ocurrió un error inesperado. Por favor intenta de nuevo.",
+    "checkoutFailed": "No se pudo iniciar el pago. Por favor intenta de nuevo."
+  },
+  "footer": {
+    "tagline": "Alternativa gratuita a Murf.ai"
+  }
+}
